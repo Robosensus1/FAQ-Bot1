@@ -1,0 +1,377 @@
+{
+  "rasa_nlu_data": {
+    "common_examples": [
+      {
+        "intent": "about_Juji_eng",
+        "text": "What does Juji do?"
+      },
+      {
+        "intent": "about_Juji_eng",
+        "text": "What is Juji ?"
+      },
+      {
+        "intent": "about_Juji_eng",
+        "text": "Who is Juji ?"
+      },
+      {
+        "intent": "about_Juji_eng",
+        "text": "Tell me about Juji ?"
+      },
+      {
+        "intent": "about_Juji_eng",
+        "text": "What can Juji do ?"
+      },
+      {
+        "intent": "about_Juji_eng",
+        "text": "What's Juji"
+      },
+      {
+        "intent": "about_Juji_eng",
+        "text": "What does it mean Juji ?"
+      },
+      {
+        "intent": "about_Juji_eng",
+        "text": "How can Juji help ?"
+      },
+      {
+        "intent": "about_Juji_eng",
+        "text": "Tell me more about your company."
+      },
+      {
+        "intent": "about_Juji_eng",
+        "text": "I want to know about your company"
+      },
+      {
+        "intent": "about_Juji_eng",
+        "text": "Can you share more detail about Juji?"
+      },
+      {
+        "intent": "sponsor_of_Juji_eng",
+        "text": "who can financially supporting Juji ?"
+      },
+      {
+        "intent": "sponsor_of_Juji_eng",
+        "text": "who invested on Juji"
+      },
+      {
+        "intent": "sponsor_of_Juji_eng",
+        "text": "who all are the investing in Juji?"
+      },
+      {
+        "intent": "sponsor_of_Juji_eng",
+        "text": "who all are the sponsors of Juji?"
+      },
+      {
+        "intent": "sponsor_of_Juji_eng",
+        "text": "Who is funding Juji?"
+      },
+      {
+        "intent": "sponsor_of_Juji_eng",
+        "text": "By whom Juji got funding?"
+      },
+      {
+        "intent": "sponsor_of_Juji_eng",
+        "text": "By whom Juji financially supported?"
+      },
+      {
+        "intent": "sponsor_of_Juji_eng",
+        "text": "Juji is backed by?"
+      },
+      {
+        "intent": "cost_of_Juji_eng",
+        "text": "What is the cost of Juji product ?"
+      },
+      {
+        "intent": "cost_of_Juji_eng",
+        "text": "What is the cost of Juji service ?"
+      },
+      {
+        "intent": "cost_of_Juji_eng",
+        "text": "What is the price of Juji service ?"
+      },
+      {
+        "intent": "cost_of_Juji_eng",
+        "text": "What is the price of Juji product ?"
+      },
+      {
+        "intent": "cost_of_Juji_eng",
+        "text": "Tell me the cost of Juji product ?"
+      },
+      {
+        "intent": "cost_of_Juji_eng",
+        "text": "Can you tell me how much do you charge?"
+      },
+      {
+        "intent": "cost_of_Juji_eng",
+        "text": "How expensive is your service or product?"
+      },
+      {
+        "intent": "cost_of_Juji_eng",
+        "text": "Please share your product or service price details."
+      },
+      {
+        "intent": "no_of_words_eng",
+        "text": "How many words do you need for analysis"
+      },
+      {
+        "intent": "no_of_words_eng",
+        "text": "How many no. of words do you need for analysis?"
+      },
+      {
+        "intent": "no_of_words_eng",
+        "text": "Average no of words do you need for analysis?"
+      },
+      {
+        "intent": "no_of_words_eng",
+        "text": "How many number of words do you need for analysis?"
+      },
+      {
+        "intent": "no_of_words_eng",
+        "text": "Is there minimum number of words you need for analysis?"
+      },
+      {
+        "intent": "no_of_words_eng",
+        "text": "What is least amount of word count you need for analysis?"
+      },
+      {
+        "intent": "no_of_words_eng",
+        "text": "With how many words you can do analysis?"
+      },
+      {
+        "intent": "no_of_words_eng",
+        "text": "How much words required to do analysis?"
+      },
+      {
+        "intent": "AI_eng",
+        "text": "What is Artificial intelligence ?"
+      },
+      {
+        "intent": "AI_eng",
+        "text": "Tell me about AI ?"
+      },
+      {
+        "intent": "AI_eng",
+        "text": "What is AI ?"
+      },
+      {
+        "intent": "AI_eng",
+        "text": "What exactly is AI?"
+      },
+      {
+        "intent": "AI_eng",
+        "text": "What is AI Technology?"
+      },
+      {
+        "intent": "AI_eng",
+        "text": "I heard lot about AI recently, What it is?"
+      },
+      {
+        "intent": "AI_eng",
+        "text": "Define AI for me."
+      },
+      {
+        "intent": "about_Juji_eng+sponsor_of_Juji_eng",
+        "text": "What does Juji do and who can financially supporting Juji ?"
+      },
+      {
+        "intent": "about_Juji_eng+sponsor_of_Juji_eng",
+        "text": "What does Juji do and who can financially supporting it ?"
+      },
+      {
+        "intent": "about_Juji_eng+sponsor_of_Juji_eng",
+        "text": "How can Juji help and who are the investors Juji ?"
+      },
+      {
+        "intent": "about_Juji_eng+sponsor_of_Juji_eng",
+        "text": "Tell me about Juji and who invests on Juji ?"
+      },
+      {
+        "intent": "about_Juji_chinese",
+        "text": "聚集是做什么的？"
+      },
+      {
+        "intent": "about_Juji_chinese",
+        "text": "聚集是什么？"
+      },
+      {
+        "intent": "about_Juji_chinese",
+        "text": "谁是聚集？"
+      },
+      {
+        "intent": "about_Juji_chinese",
+        "text": "告诉我有关聚集的事吗？"
+      },
+      {
+        "intent": "about_Juji_chinese",
+        "text": "聚集能做什么？"
+      },
+      {
+        "intent": "about_Juji_chinese",
+        "text": "什么是聚集"
+      },
+      {
+        "intent": "about_Juji_chinese",
+        "text": "聚集是什么意思？"
+      },
+      {
+        "intent": "about_Juji_chinese",
+        "text": "聚集如何帮助？"
+      },
+      {
+        "intent": "about_Juji_chinese",
+        "text": "告诉我有关贵公司的更多信息。"
+      },
+      {
+        "intent": "about_Juji_chinese",
+        "text": "我想知道你的公司"
+      },
+      {
+        "intent": "about_Juji_chinese",
+        "text": "你能分享一些关于聚集的更多细节吗？"
+      },
+      {
+        "intent": "sponsor_of_Juji_chinese",
+        "text": "谁可以在财务上支持聚集？"
+      },
+      {
+        "intent": "sponsor_of_Juji_chinese",
+        "text": "谁投资聚集"
+      },
+      {
+        "intent": "sponsor_of_Juji_chinese",
+        "text": "谁都投资聚集？"
+      },
+      {
+        "intent": "sponsor_of_Juji_chinese",
+        "text": "谁都是聚集的赞助商？"
+      },
+      {
+        "intent": "sponsor_of_Juji_chinese",
+        "text": "谁在资助聚集？"
+      },
+      {
+        "intent": "sponsor_of_Juji_chinese",
+        "text": "聚集谁获得资金？"
+      },
+      {
+        "intent": "sponsor_of_Juji_chinese",
+        "text": "谁聚集财务支持？"
+      },
+      {
+        "intent": "sponsor_of_Juji_chinese",
+        "text": "聚集是由？"
+      },
+      {
+        "intent": "cost_of_Juji_chinese",
+        "text": "聚集产品的成本是多少？"
+      },
+      {
+        "intent": "cost_of_Juji_chinese",
+        "text": "聚集产品的成本是多少？"
+      },
+      {
+        "intent": "cost_of_Juji_chinese",
+        "text": "聚集产品的成本是多少？"
+      },
+      {
+        "intent": "cost_of_Juji_chinese",
+        "text": "聚集产品的价格是多少？"
+      },
+      {
+        "intent": "cost_of_Juji_chinese",
+        "text": "聚集产品的价格是多少？"
+      },
+      {
+        "intent": "cost_of_Juji_chinese",
+        "text": "你能告诉我你收费多少钱？"
+      },
+      {
+        "intent": "cost_of_Juji_chinese",
+        "text": "您的服务或产品有多贵？"
+      },
+      {
+        "intent": "cost_of_Juji_chinese",
+        "text": "请分享您的产品或服务价格详情。"
+      },
+      {
+        "intent": "no_of_words_chinese",
+        "text": "你需要多少个词才能进行分析"
+      },
+      {
+        "intent": "no_of_words_chinese",
+        "text": "多少没有。你需要进行分析吗？"
+      },
+      {
+        "intent": "no_of_words_chinese",
+        "text": "您需要进行平均分析吗？"
+      },
+      {
+        "intent": "no_of_words_chinese",
+        "text": "分析需要多少个单词？"
+      },
+      {
+        "intent": "no_of_words_chinese",
+        "text": "您需要进行分析的最少字数吗？"
+      },
+      {
+        "intent": "no_of_words_chinese",
+        "text": "分析需要的字数最少？"
+      },
+      {
+        "intent": "no_of_words_chinese",
+        "text": "你可以用多少单词进行分析？"
+      },
+      {
+        "intent": "no_of_words_chinese",
+        "text": "分析需要多少字？"
+      },
+      {
+        "intent": "AI_chinese",
+        "text": "什么是人工智能？"
+      },
+      {
+        "intent": "AI_chinese",
+        "text": "告诉我有关AI的事吗？"
+      },
+      {
+        "intent": "AI_chinese",
+        "text": "什么是人工智能？"
+      },
+      {
+        "intent": "AI_chinese",
+        "text": "AI究竟是什么？"
+      },
+      {
+        "intent": "AI_chinese",
+        "text": "什么是人工智能技术？人工智能是什么？"
+      },
+      {
+        "intent": "AI_chinese",
+        "text": "我最近听说过关于AI的很多，它是什么？"
+      },
+      {
+        "intent": "AI_chinese",
+        "text": "为我定义AI。"
+      },
+      {
+        "intent": "about_Juji_eng+sponsor_of_Juji_chinese",
+        "text": "聚集做什么以及谁可以在财务上支持聚集？"
+      },
+      {
+        "intent": "about_Juji_eng+sponsor_of_Juji_chinese",
+        "text": "聚集做什么以及谁可以在经济上支持它？"
+      },
+      {
+        "intent": "about_Juji_eng+sponsor_of_Juji_chinese",
+        "text": "聚集如何帮助谁和投资者聚集？"
+      },
+      {
+        "intent": "about_Juji_eng+sponsor_of_Juji_chinese",
+        "text": "告诉我有关聚集和谁投资聚集？"
+      }
+    ],
+    "regex_features": [],
+    "lookup_tables": [],
+    "entity_synonyms": []
+  }
+}
